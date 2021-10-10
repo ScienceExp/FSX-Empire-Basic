@@ -7,6 +7,10 @@
 
 ![alt text](https://raw.githubusercontent.com/ScienceExp/FSX-Empire-Basic/main/FSX_Empire.jpg)
 
-- [FSX SDK Documentation](https://docs.microsoft.com/en-us/previous-versions/microsoft-esp/cc526981(v=msdn.10) - FSX SDK Documentation.
+## Documentation
+
+Documentation for FSX and Google Earth api's.
+
+- [FSX SDK Documentation](https://docs.microsoft.com/en-us/previous-versions/microsoft-esp/cc526981(v=msdn.10)) - FSX SDK Documentation.
 
 - [Google Earth Documentation] (https://developers.google.com/kml/documentation/kmlreference?hl=en#Link) - Google Earth Documentation
